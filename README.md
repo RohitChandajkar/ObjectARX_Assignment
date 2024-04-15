@@ -1,4 +1,5 @@
-# ObjectARX_Assignment
+
+# ObjectARX_Assignments
 ## Overview
  
 This repository contains a series of ObjectARX practice assignments. Each assignment focuses on a specific aspect of ObjectARX programming, providing valuable hands-on experience and practical insights, offering a comprehensive collection of 12 projects that demonstrate the application of ObjectARX in AutoCAD development. 
